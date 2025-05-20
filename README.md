@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @Rhakioff
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I’m Rhakioff 👋
 
-<!---
-Rhakioff/Rhakioff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **Student passionate about film technology**  
+💡 Exploring the intersection of tech and cinema
+
+## 🚀 Projects
+- **SafiriAi**  
+  An AI-powered app designed to help reduce accidents. Always striving to use technology for positive change!
+
+## 🛠️ Skills
+- Python
+- HTML
+
+---
+
+*Currently learning, creating, and growing. Let’s make something amazing!*
